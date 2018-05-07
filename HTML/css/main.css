@@ -1,0 +1,15 @@
+* {margin:0;padding:0;}
+.head-title  {
+    background:  #3b5998;
+    color: white;
+padding:5px 3px;width:960px;margin:0 auto;
+overflow:hidden;}
+strong {
+    font-size:  14px;
+}
+input {width:100%;height:30px;}
+input#submitbutton {background:#3b5998;color:white;margin-top:20px;}
+.head-title h3 {float:left;}
+.head-title a {float:right;color:white;text-decoration:none;background:tomato;}
+main.hasan {line-height:30px;width:960px;margin:0 auto;overflow:hidden;font-family:arial;}
+.footer {padding:40px;margin-top:20px;background:#f2f2f2;color:white;width:883px;margin:0 auto;}
